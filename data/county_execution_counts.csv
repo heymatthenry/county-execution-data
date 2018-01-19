@@ -3,7 +3,7 @@
 "Clark","NV",1979,1
 "Leon","FL",1979,1
 "Marion","IN",1981,1
-"Newport News City","VA",1982,1
+"Newport News","VA",1982,1
 "Tarrant","TX",1982,1
 "Bibb","GA",1983,1
 "East Baton Rouge Parish","LA",1983,1
@@ -26,7 +26,7 @@
 "Miami-Dade","FL",1984,1
 "Orange","FL",1984,1
 "Ouachita Parish","LA",1984,1
-"Richmond City","VA",1984,1
+"Richmond","VA",1984,1
 "Robeson","NC",1984,1
 "St. Lucie","FL",1984,1
 "Washington Parish","LA",1984,1
@@ -44,7 +44,7 @@
 "Northampton","VA",1985,1
 "Potter","TX",1985,1
 "Richland","SC",1985,1
-"Richmond City","VA",1985,1
+"Richmond","VA",1985,1
 "Tarrant","TX",1985,2
 "Volusia","FL",1985,1
 "Dallas","TX",1986,1
@@ -52,7 +52,7 @@
 "El Paso","TX",1986,1
 "Galveston","TX",1986,1
 "Harris","TX",1986,4
-"James City County","VA",1986,1
+"James County","VA",1986,1
 "Mobile","AL",1986,1
 "Muscogee","GA",1986,1
 "Nueces","TX",1986,1
@@ -65,7 +65,7 @@
 "Bibb","GA",1987,1
 "Bossier Parish","LA",1987,1
 "El Paso","TX",1987,2
-"Fairfax City","VA",1987,1
+"Fairfax","VA",1987,1
 "Fulton","GA",1987,1
 "Harris","TX",1987,1
 "Hinds","MS",1987,1
@@ -88,7 +88,7 @@
 "Hardin","TX",1988,1
 "Harris","TX",1988,1
 "Jefferson Parish","LA",1988,1
-"Petersburg City","VA",1988,1
+"Petersburg","VA",1988,1
 "Polk","FL",1988,1
 "Polk","GA",1988,1
 "Salt Lake","UT",1988,1
@@ -119,7 +119,7 @@
 "Osceola","FL",1990,1
 "Pinellas","FL",1990,1
 "Pope","AR",1990,1
-"Portsmouth City","VA",1990,1
+"Portsmouth","VA",1990,1
 "Richland","SC",1990,1
 "Schuyler","MO",1990,1
 "Sebastian","AR",1990,1
@@ -130,20 +130,20 @@
 "East Baton Rouge Parish","LA",1991,1
 "Fort Bend","TX",1991,1
 "Fulton","GA",1991,1
-"Hampton City","VA",1991,1
+"Hampton","VA",1991,1
 "Harris","TX",1991,2
 "Mecklenburg","NC",1991,1
 "Monroe","FL",1991,1
 "Montgomery","TX",1991,1
 "St. Louis","MO",1991,1
-"Virginia Beach City","VA",1991,1
+"Virginia Beach","VA",1991,1
 "Volusia","FL",1991,1
 "Williamsburg","SC",1991,1
 "Brazoria","TX",1992,2
 "Brazos","TX",1992,2
 "Buchanan","VA",1992,1
 "Cameron","TX",1992,1
-"Charles City","VA",1992,1
+"Charles","VA",1992,1
 "Chesterfield","VA",1992,1
 "Conway","AR",1992,1
 "Duval","FL",1992,1
@@ -188,9 +188,9 @@
 "Navarro","TX",1993,1
 "New Castle","DE",1993,1
 "Randolph","MO",1993,1
-"St. Louis City","MO",1993,1
+"St. Louis","MO",1993,1
 "Sussex","DE",1993,1
-"Virginia Beach City","VA",1993,2
+"Virginia Beach","VA",1993,2
 "York","VA",1993,1
 "Ada","ID",1994,1
 "Arkansas","AR",1994,1
@@ -201,7 +201,7 @@
 "Cabarrus","NC",1994,1
 "Cook","IL",1994,1
 "Dallas","TX",1994,1
-"Danville City","VA",1994,1
+"Danville","VA",1994,1
 "Douglas","NE",1994,1
 "Galveston","TX",1994,2
 "Harris","TX",1994,7
@@ -221,12 +221,12 @@
 "Cobb","GA",1995,1
 "Cook","IL",1995,2
 "Dallas","TX",1995,5
-"Danville City","VA",1995,1
+"Danville","VA",1995,1
 "Dauphin","PA",1995,1
 "DuPage","IL",1995,1
 "Halifax","NC",1995,1
 "Hamilton","TX",1995,1
-"Hampton City","VA",1995,1
+"Hampton","VA",1995,1
 "Harris","TX",1995,4
 "Jackson","MO",1995,1
 "Jefferson","AL",1995,1
@@ -251,7 +251,7 @@
 "Smyth","VA",1995,1
 "Southampton","VA",1995,1
 "St. Clair","IL",1995,1
-"St. Louis City","MO",1995,3
+"St. Louis","MO",1995,3
 "Tarrant","TX",1995,1
 "Taylor","TX",1995,1
 "Tulsa","OK",1995,1
@@ -280,7 +280,7 @@
 "Monroe","AL",1996,1
 "New Castle","DE",1996,1
 "Orleans Parish","LA",1996,1
-"Petersburg City","VA",1996,1
+"Petersburg","VA",1996,1
 "Pima","AZ",1996,1
 "Platte","MO",1996,1
 "Potter","TX",1996,1
@@ -288,11 +288,11 @@
 "Richmond","VA",1996,1
 "Smyth","VA",1996,1
 "St. Charles","MO",1996,1
-"St. Louis City","MO",1996,1
-"Staunton City","VA",1996,1
+"St. Louis","MO",1996,1
+"Staunton","VA",1996,1
 "Tarrant","TX",1996,1
 "Tulsa","OK",1996,1
-"Virginia Beach City","VA",1996,1
+"Virginia Beach","VA",1996,1
 "Wakulla","FL",1996,1
 "Wasco","OR",1996,1
 "Weber","UT",1996,1
@@ -301,7 +301,7 @@
 "Adams","CO",1997,1
 "Aransas","TX",1997,1
 "Arlington","VA",1997,1
-"Baltimore City","MD",1997,1
+"Baltimore","MD",1997,1
 "Bexar","TX",1997,2
 "Bowie","TX",1997,1
 "Cameron","TX",1997,2
@@ -312,7 +312,7 @@
 "Denton","TX",1997,1
 "Ector","TX",1997,1
 "Hale","TX",1997,1
-"Hampton City","VA",1997,1
+"Hampton","VA",1997,1
 "Harris","TX",1997,11
 "Jasper","SC",1997,1
 "Jefferson","AL",1997,1
@@ -334,19 +334,19 @@
 "Orleans Parish","LA",1997,1
 "Pinal","AZ",1997,1
 "Pittsylvania","VA",1997,1
-"Portsmouth City","VA",1997,2
+"Portsmouth","VA",1997,2
 "Potter","TX",1997,1
 "Prince William","VA",1997,2
 "Sarpy","NE",1997,1
 "Schuyler","MO",1997,1
 "Scurry","TX",1997,1
-"St. Louis City","MO",1997,1
+"St. Louis","MO",1997,1
 "Talladega","AL",1997,1
 "Tarrant","TX",1997,4
 "Tom Green","TX",1997,1
 "Travis","TX",1997,1
 "Van Buren","AR",1997,1
-"Virginia Beach City","VA",1997,2
+"Virginia Beach","VA",1997,2
 "Walker","TX",1997,1
 "Yuma","AZ",1997,1
 "Amherst","VA",1998,1
@@ -365,8 +365,7 @@
 "Clay","MO",1998,1
 "Clay","TX",1998,1
 "Dallas","TX",1998,2
-"Fairfax","VA",1998,2
-"Fairfax City","VA",1998,1
+"Fairfax","VA",1998,3
 "Greer","OK",1998,1
 "Halifax","VA",1998,1
 "Harris","TX",1998,3
@@ -385,7 +384,7 @@
 "Mecklenburg","NC",1998,1
 "Montgomery","TX",1998,1
 "Muskogee","OK",1998,1
-"Newport News City","VA",1998,1
+"Newport News","VA",1998,1
 "Orange","CA",1998,1
 "Orange","FL",1998,1
 "Pima","AZ",1998,2
@@ -395,7 +394,7 @@
 "Roanoke","VA",1998,1
 "Sebastian","AR",1998,1
 "St. Johns","FL",1998,1
-"St. Louis City","MO",1998,2
+"St. Louis","MO",1998,2
 "Stephens","OK",1998,1
 "Sullivan","IN",1998,1
 "Tarrant","TX",1998,3
@@ -411,7 +410,7 @@
 "Butler","MO",1999,1
 "Caldwell","TX",1999,1
 "Charleston","SC",1999,2
-"Chesapeake City","VA",1999,1
+"Chesapeake","VA",1999,1
 "Chesterfield","VA",1999,5
 "Clay","MO",1999,1
 "Collin","TX",1999,1
@@ -424,7 +423,7 @@
 "Greene","NC",1999,1
 "Greenville","SC",1999,1
 "Gregg","TX",1999,1
-"Hampton City","VA",1999,1
+"Hampton","VA",1999,1
 "Harris","TX",1999,5
 "Hunt","TX",1999,1
 "Iron","UT",1999,1
@@ -451,7 +450,7 @@
 "Pinal","AZ",1999,1
 "Pitt","NC",1999,1
 "Pittsylvania","VA",1999,1
-"Portsmouth City","VA",1999,1
+"Portsmouth","VA",1999,1
 "Prince William","VA",1999,1
 "Richmond","VA",1999,1
 "Roger Mills","OK",1999,1
@@ -463,8 +462,7 @@
 "Smith","TX",1999,1
 "Spartanburg","SC",1999,1
 "St. Johns","FL",1999,1
-"St. Louis","MO",1999,3
-"St. Louis City","MO",1999,1
+"St. Louis","MO",1999,4
 "Surry","NC",1999,1
 "Tarrant","TX",1999,4
 "Taylor","TX",1999,2
@@ -511,7 +509,7 @@
 "Muskogee","OK",2000,1
 "Navarro","TX",2000,1
 "New Castle","DE",2000,1
-"Norfolk City","VA",2000,1
+"Norfolk","VA",2000,1
 "Okaloosa","FL",2000,1
 "Oklahoma","OK",2000,6
 "Orange","FL",2000,1
@@ -528,19 +526,17 @@
 "Santa Rosa","FL",2000,1
 "Seminole","FL",2000,1
 "Smith","TX",2000,3
-"St. Louis","MO",2000,1
-"St. Louis City","MO",2000,1
+"St. Louis","MO",2000,2
 "Tarrant","TX",2000,3
 "Taylor","TX",2000,2
 "Tulsa","OK",2000,1
-"Virginia Beach City","VA",2000,2
+"Virginia Beach","VA",2000,2
 "Wake","NC",2000,1
 "Weakley","TN",2000,1
 "Wichita","TX",2000,1
 "Williamson","TX",2000,1
 "Yavapai","AZ",2000,1
 "Yolo","CA",2000,1
-"","FE",2001,1
 "Arlington","VA",2001,1
 "Bexar","TX",2001,2
 "Bibb","GA",2001,1
@@ -570,7 +566,6 @@
 "Muskogee","OK",2001,1
 "New Castle","DE",2001,1
 "Nueces","TX",2001,1
-"Oklahoma","FE",2001,1
 "Oklahoma","OK",2001,8
 "Parker","TX",2001,1
 "Perry","MO",2001,1
@@ -582,8 +577,7 @@
 "Smith","TX",2001,1
 "Snohomish","WA",2001,1
 "St. Francois","MO",2001,1
-"St. Louis","MO",2001,2
-"St. Louis City","MO",2001,1
+"St. Louis","MO",2001,3
 "Taliaferro","GA",2001,1
 "Tarrant","TX",2001,2
 "Tulsa","OK",2001,3
@@ -621,7 +615,7 @@
 "Montgomery","TX",2002,2
 "Morris","TX",2002,1
 "Muscogee","GA",2002,1
-"Newport News City","VA",2002,1
+"Newport News","VA",2002,1
 "Newton","TX",2002,1
 "Nueces","TX",2002,2
 "Oklahoma","OK",2002,7
@@ -640,7 +634,6 @@
 "Warren","MO",2002,1
 "Wayne","OH",2002,1
 "Wichita","TX",2002,1
-"","FE",2003,1
 "Allen","IN",2003,1
 "Anderson","TX",2003,1
 "Audrain","MO",2003,1
@@ -713,7 +706,7 @@
 "Grady","OK",2004,1
 "Halifax","VA",2004,1
 "Hamilton","OH",2004,1
-"Hampton City","VA",2004,1
+"Hampton","VA",2004,1
 "Harris","TX",2004,8
 "Haywood","NC",2004,1
 "Henry","AL",2004,1
@@ -808,7 +801,7 @@
 "Mobile","AL",2006,1
 "Montgomery","OH",2006,1
 "Oklahoma","OK",2006,1
-"Portsmouth City","VA",2006,1
+"Portsmouth","VA",2006,1
 "Pottawatomie","OK",2006,1
 "Potter","TX",2006,1
 "Randall","TX",2006,1
@@ -860,7 +853,7 @@
 "Chickasaw","MS",2008,1
 "Coal","OK",2008,1
 "Dallas","TX",2008,6
-"Danville City","VA",2008,1
+"Danville","VA",2008,1
 "Dorchester","SC",2008,1
 "Fayette","KY",2008,1
 "Gregg","TX",2008,1
@@ -982,11 +975,11 @@
 "Newton","MS",2011,1
 "Nueces","TX",2011,1
 "Pima","AZ",2011,1
-"St. Louis City","MO",2011,1
+"St. Louis","MO",2011,1
 "Tarrant","TX",2011,2
 "Tulsa","OK",2011,1
 "Tuscaloosa","AL",2011,1
-"Williamsburg City","VA",2011,1
+"Williamsburg","VA",2011,1
 "Belmont","OH",2012,1
 "Bexar","TX",2012,2
 "Bingham","ID",2012,1
@@ -1046,7 +1039,7 @@
 "Pinellas","FL",2013,1
 "Richland","OH",2013,1
 "Smith","TX",2013,1
-"St. Louis City","MO",2013,1
+"St. Louis","MO",2013,1
 "Stephens","OK",2013,1
 "Tulsa","OK",2013,1
 "Victoria","TX",2013,1
@@ -1136,7 +1129,7 @@
 "Montgomery","AL",2017,1
 "Murray","GA",2017,1
 "Pulaski","AR",2017,2
-"Richmond City","VA",2017,1
+"Richmond","VA",2017,1
 "Summit","OH",2017,1
 "Tarrant","TX",2017,2
 "Washington","VA",2017,1
