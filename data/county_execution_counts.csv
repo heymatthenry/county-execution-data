@@ -6,30 +6,30 @@
 "Newport News","VA",1982,1
 "Tarrant","TX",1982,1
 "Bibb","GA",1983,1
-"East Baton Rouge Parish","LA",1983,1
+"East Baton Rouge","LA",1983,1
 "Jackson","MS",1983,1
 "Miami-Dade","FL",1983,1
 "Mobile","AL",1983,1
 "Alachua","FL",1984,1
 "Bell","TX",1984,1
 "Bleckley","GA",1984,1
-"Bossier Parish","LA",1984,1
+"Bossier","LA",1984,1
 "Decatur","GA",1984,1
 "Duval","FL",1984,2
 "Harris","TX",1984,1
 "Hillsborough","FL",1984,1
-"Iberia Parish","LA",1984,1
+"Iberia","LA",1984,1
+"Jefferson","LA",1984,1
 "Jefferson","TX",1984,1
-"Jefferson Parish","LA",1984,1
 "Lee","FL",1984,1
 "McDowell","NC",1984,1
 "Miami-Dade","FL",1984,1
 "Orange","FL",1984,1
-"Ouachita Parish","LA",1984,1
+"Ouachita","LA",1984,1
 "Richmond","VA",1984,1
 "Robeson","NC",1984,1
 "St. Lucie","FL",1984,1
-"Washington Parish","LA",1984,1
+"Washington","LA",1984,1
 "Bexar","TX",1985,1
 "Bibb","GA",1985,1
 "Brooks","GA",1985,1
@@ -37,7 +37,7 @@
 "Cobb","GA",1985,1
 "Duval","FL",1985,1
 "Jefferson","TX",1985,1
-"Lafourche Parish","LA",1985,1
+"Lafourche","LA",1985,1
 "Lake","IN",1985,1
 "Live Oak","TX",1985,1
 "Miami-Dade","FL",1985,1
@@ -52,7 +52,7 @@
 "El Paso","TX",1986,1
 "Galveston","TX",1986,1
 "Harris","TX",1986,4
-"James County","VA",1986,1
+"James City","VA",1986,1
 "Mobile","AL",1986,1
 "Muscogee","GA",1986,1
 "Nueces","TX",1986,1
@@ -63,31 +63,31 @@
 "Wake","NC",1986,1
 "Bexar","TX",1987,1
 "Bibb","GA",1987,1
-"Bossier Parish","LA",1987,1
+"Bossier","LA",1987,1
 "El Paso","TX",1987,2
 "Fairfax","VA",1987,1
 "Fulton","GA",1987,1
 "Harris","TX",1987,1
 "Hinds","MS",1987,1
+"Jefferson","LA",1987,1
 "Jefferson","TX",1987,1
-"Jefferson Parish","LA",1987,1
-"Lafayette Parish","LA",1987,3
+"Lafayette","LA",1987,3
 "Leake","MS",1987,1
 "Miami-Dade","FL",1987,1
 "Mobile","AL",1987,1
 "Montgomery","TX",1987,1
 "Muscogee","GA",1987,2
-"Orleans Parish","LA",1987,1
-"St. Charles Parish","LA",1987,2
+"Orleans","LA",1987,1
+"St. Charles","LA",1987,2
 "Weber","UT",1987,1
 "Worth","GA",1987,1
 "Bexar","TX",1988,1
-"Bossier Parish","LA",1988,1
+"Bossier","LA",1988,1
 "Brevard","FL",1988,1
-"Caddo Parish","LA",1988,1
+"Caddo","LA",1988,1
 "Hardin","TX",1988,1
 "Harris","TX",1988,1
-"Jefferson Parish","LA",1988,1
+"Jefferson","LA",1988,1
 "Petersburg","VA",1988,1
 "Polk","FL",1988,1
 "Polk","GA",1988,1
@@ -113,7 +113,7 @@
 "Harris","TX",1990,3
 "Jefferson","AL",1990,1
 "Jefferson","TX",1990,1
-"Lafayette Parish","LA",1990,1
+"Lafayette","LA",1990,1
 "Montgomery","VA",1990,1
 "Muskogee","OK",1990,1
 "Osceola","FL",1990,1
@@ -127,7 +127,7 @@
 "St. Louis","MO",1990,1
 "Washington","MO",1990,2
 "Cameron","TX",1991,1
-"East Baton Rouge Parish","LA",1991,1
+"East Baton Rouge","LA",1991,1
 "Fort Bend","TX",1991,1
 "Fulton","GA",1991,1
 "Hampton","VA",1991,1
@@ -178,8 +178,8 @@
 "Harris","TX",1993,7
 "Hernando","FL",1993,1
 "Jackson","MO",1993,1
+"Jefferson","LA",1993,1
 "Jefferson","TX",1993,1
-"Jefferson Parish","LA",1993,1
 "Liberty","GA",1993,2
 "Madison","FL",1993,1
 "Matagorda","TX",1993,1
@@ -232,7 +232,7 @@
 "Jefferson","AL",1995,1
 "Jefferson","TX",1995,1
 "Lubbock","TX",1995,1
-"Macon County","AL",1995,1
+"Macon","AL",1995,1
 "McClain","OK",1995,1
 "McHenry","IL",1995,1
 "Miami-Dade","FL",1995,1
@@ -241,7 +241,7 @@
 "Montgomery","TX",1995,1
 "New Castle","DE",1995,1
 "Orange","FL",1995,1
-"Orleans Parish","LA",1995,1
+"Orleans","LA",1995,1
 "Patrick","VA",1995,1
 "Pima","AZ",1995,1
 "Polk","FL",1995,1
@@ -279,7 +279,7 @@
 "Merced","CA",1996,1
 "Monroe","AL",1996,1
 "New Castle","DE",1996,1
-"Orleans Parish","LA",1996,1
+"Orleans","LA",1996,1
 "Petersburg","VA",1996,1
 "Pima","AZ",1996,1
 "Platte","MO",1996,1
@@ -331,7 +331,7 @@
 "Nevada","AR",1997,1
 "Nueces","TX",1997,1
 "Orange","FL",1997,1
-"Orleans Parish","LA",1997,1
+"Orleans","LA",1997,1
 "Pinal","AZ",1997,1
 "Pittsylvania","VA",1997,1
 "Portsmouth","VA",1997,2
@@ -454,7 +454,7 @@
 "Prince William","VA",1999,1
 "Richmond","VA",1999,1
 "Roger Mills","OK",1999,1
-"Sabine Parish","LA",1999,1
+"Sabine","LA",1999,1
 "Sacramento","CA",1999,1
 "Sebastian","AR",1999,1
 "Shelby","AL",1999,1
@@ -485,7 +485,7 @@
 "Carter","OK",2000,1
 "Coconino","AZ",2000,1
 "Dallas","TX",2000,6
-"East Baton Rouge Parish","LA",2000,1
+"East Baton Rouge","LA",2000,1
 "Fairfax","VA",2000,1
 "Fort Bend","TX",2000,1
 "Freestone","TX",2000,1
@@ -585,7 +585,7 @@
 "Bowie","TX",2002,1
 "Brazoria","TX",2002,1
 "Brazos","TX",2002,2
-"Calcasieu Parish","LA",2002,1
+"Calcasieu","LA",2002,1
 "Callaway","MO",2002,1
 "Charleston","SC",2002,1
 "Chickasaw","MS",2002,1
@@ -906,7 +906,7 @@
 "Tulsa","OK",2009,1
 "Vanderburgh","IN",2009,1
 "Wood","TX",2009,1
-"Bee County","TX",2010,1
+"Bee","TX",2010,1
 "Bexar","TX",2010,1
 "Butler","OH",2010,1
 "Chickasaw","MS",2010,1
@@ -926,7 +926,7 @@
 "King","WA",2010,1
 "Lamar","TX",2010,1
 "Lee","MS",2010,1
-"Livingston Parish","LA",2010,1
+"Livingston","LA",2010,1
 "Lucas","OH",2010,1
 "Mahoning","OH",2010,1
 "Maricopa","AZ",2010,1
@@ -1103,7 +1103,7 @@
 "Harris","TX",2016,2
 "Hidalgo","TX",2016,1
 "Houston","GA",2016,1
-"Houston County","TX",2016,1
+"Houston","TX",2016,1
 "Hunt","TX",2016,1
 "Jefferson","AL",2016,1
 "Jones","GA",2016,1
