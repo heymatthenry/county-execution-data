@@ -14,7 +14,7 @@ fix_county_names <- function(county_name) {
 
 county_execution_counts <- executions %>%
   mutate(Year = year(Date), county = County, state = State) %>%
-  filter(State != "FE") %>%
+  filter(State != "FE" & complete.cases(.)) %>%
   mutate_at(.vars = vars(County), .funs = funs(fix_county_names)) %>%
   count(County, State, Year) %>%
   arrange(Year)
@@ -26,10 +26,11 @@ json_obj <- list()
 for (i in 1:length(states)) {
   state_obj <- list()
   current_state <- states[i]
+  print(current_state)
   
   state_obj$State <- current_state
   filter_by_state <- county_execution_counts %>% filter(State == current_state)
-  state_counties <- filter_by_state$County
+  state_counties <- unique(filter_by_state$County)
   
   for (j in 1:length(state_counties)) {
     county_obj <- list()
@@ -53,4 +54,5 @@ for (i in 1:length(states)) {
   json_obj[[i]] <- state_obj
 }
 
+# print(toJSON(json_obj))
 write(toJSON(json_obj), "data/county_executions.json")
