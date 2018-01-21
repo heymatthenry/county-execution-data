@@ -26,7 +26,6 @@ json_obj <- list()
 for (i in 1:length(states)) {
   state_obj <- list()
   current_state <- states[i]
-  print(current_state)
   
   state_obj$State <- current_state
   filter_by_state <- county_execution_counts %>% filter(State == current_state)
@@ -54,5 +53,4 @@ for (i in 1:length(states)) {
   json_obj[[i]] <- state_obj
 }
 
-# print(toJSON(json_obj))
 write(toJSON(json_obj), "data/county_executions.json")
