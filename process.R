@@ -77,6 +77,8 @@ add_geoids <- function(executions_df) {
 
   executions_with_ids <- executions_with_ids %>%
     unite(GEOID, c("State_ID", "County_ID"), sep = "")
+
+  executions_with_ids %>% spread(Year, n)
 }
 
 write.table(add_geoids(executions_df), sep = "\t", row.names = FALSE, file = "data/county_executions.tsv")
