@@ -54,3 +54,11 @@ for (i in 1:length(states)) {
 }
 
 write(toJSON(json_obj), "data/county_executions.json")
+
+execution_tsv <- function() {
+  county_list <- read.csv("data/county_list.csv", stringsAsFactors = FALSE) %>%
+    select(-H1)
+  names(county_list) <- c("State", "State_ID", "County_ID", "County")
+  county_list$county_name <- fix_county_names(county_list$county_name)
+  executions_with_ids <- county_list %>% right_join(county_execution_counts, c("State", "County"))
+}
