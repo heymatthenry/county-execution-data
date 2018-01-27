@@ -8,7 +8,7 @@ executions <- read.csv("data/execution_database.csv", stringsAsFactors = FALSE)
 executions$Date <- as.Date(executions$Date, format = "%m/%d/%Y")
 
 fix_county_names <- function(county_name) {
-  breaking_str <- " (City|County|Parish)$"
+  breaking_str <- regex(" (City|County|Parish)$", ignore_case = TRUE)
   return(str_replace(county_name, breaking_str, ""))
 }
 
