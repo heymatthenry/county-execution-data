@@ -59,6 +59,13 @@ execution_tsv <- function() {
   county_list <- read.csv("data/county_list.csv", stringsAsFactors = FALSE) %>%
     select(-H1)
   names(county_list) <- c("State", "State_ID", "County_ID", "County")
-  county_list$county_name <- fix_county_names(county_list$county_name)
-  executions_with_ids <- county_list %>% right_join(county_execution_counts, c("State", "County"))
+  county_list$County <- fix_county_names(county_list$County)
+  executions_with_ids <- county_list %>%
+    right_join(county_execution_counts, c("State", "County"))
+
+  executions_with_ids$County_ID <- str_pad(as.character(executions_with_ids$County_ID), 3, "left", pad = "0")
+  executions_with_ids$State_ID <- str_pad(as.character(executions_with_ids$State_ID), 2, "left", pad = "0")
+
+  executions_with_ids <- executions_with_ids %>%
+    unite(GEOID, c("State_ID", "County_ID"), sep = "")
 }
